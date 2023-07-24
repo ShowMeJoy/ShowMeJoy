@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ShowMeJoy&style=plastic&label=profile+views&color=orange)
+
 ### Hello, I'm Iurii Kirsanov.
 ---
 ### My social networks:
