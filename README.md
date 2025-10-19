@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=ShowMeJoy&style=plastic&label=profile+views&color=orange)
-
 ### Hi there!
 ---
 ### My social networks:
@@ -18,8 +16,5 @@
 <img align="left" alt="С++" width="26px" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"/>
 
 <br />
-<br />
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShowMeJoy&show_icons=true&hide_border=true" />
-
